@@ -1,5 +1,5 @@
 # Hamiltonian
-Solution to Numberphile's: The Square-Sum Problem
+Solution to Numberphile's: The Square-Sum Problem (https://www.youtube.com/watch?v=G1m7goLCJDY)
 
 Finds all posible arrangements of numbers up to a specified number where each pair add up to a square number.
 
